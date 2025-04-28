@@ -1,0 +1,12 @@
+---
+title: Lorem ipsum dolor sit amet
+author: Dr Eva Lu Ator
+institute: Centre for Advanced Research Computing
+title-image: images/placeholder.svg
+title-image-width: 40%
+format:
+  revealjs:
+    logo: images/arc-logo.svg
+---
+
+{{< include _content.qmd >}}
