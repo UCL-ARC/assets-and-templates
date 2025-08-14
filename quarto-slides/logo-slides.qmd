@@ -4,6 +4,7 @@ author: Dr Eva Lu Ator
 institute: Centre for Advanced Research Computing
 title-image: images/placeholder.svg
 title-image-width: 40%
+title-image-alt: An empty image
 format:
   revealjs:
     logo: images/arc-logo.svg
