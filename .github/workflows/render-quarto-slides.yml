@@ -30,7 +30,7 @@ jobs:
       - name: Render Quarto slides
         run: quarto render quarto-slides --to revealjs
       - name: Upload rendered slides as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: rendered-quarto-slides
           path: quarto-slides/_output
